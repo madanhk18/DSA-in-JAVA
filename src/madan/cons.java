@@ -1,3 +1,5 @@
+package madan;
+
 class stud{
     int rol;
     String nam;
