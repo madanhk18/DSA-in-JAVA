@@ -13,6 +13,12 @@ public class stack {
         family.add("Bruno");
         System.out.println("Family :"+family);
         System.out.println(family.peek());
+        family.pop();
+        System.out.println(family);
+        System.out.println(family.peek());
+        family.push("Harsha");
+        System.out.println(family.peek());
+
 
     }
 }
